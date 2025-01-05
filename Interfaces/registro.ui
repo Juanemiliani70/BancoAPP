@@ -201,7 +201,7 @@ font: 8pt &quot;MS Shell Dlg 2&quot;;</string>
 font: 8pt &quot;MS Shell Dlg 2&quot;;</string>
    </property>
    <property name="text">
-    <string>Monto (USD)</string>
+    <string>Monto</string>
    </property>
   </widget>
   <widget class="QLineEdit" name="txtMonto">
@@ -244,7 +244,35 @@ color: rgb(255, 255, 255);
     <string>Registrar</string>
    </property>
   </widget>
+  <widget class="QCheckBox" name="checkDolares">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>310</y>
+     <width>91</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Dolares</string>
+   </property>
+  </widget>
+  <widget class="QCheckBox" name="checkInternacional">
+   <property name="geometry">
+    <rect>
+     <x>90</x>
+     <y>310</y>
+     <width>171</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Transferencia Internacional</string>
+   </property>
+  </widget>
  </widget>
  <resources/>
  <connections/>
 </ui>
+
+   
