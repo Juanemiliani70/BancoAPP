@@ -1,35 +1,35 @@
 # BancoApp
 
-**BancoApp** is a simple banking application built using **Python**, **PyQt6**, and **SQLite**. The app allows users to perform banking tasks such as making transfers, recording deposits, and viewing a detailed transaction history through a clean and easy-to-use interface.
+**BancoApp** BancoApp es una aplicación bancaria simple desarrollada con Python, PyQt6 y SQLite. La aplicación permite a los usuarios realizar operaciones bancarias como realizar transferencias, registrar depósitos y ver un historial detallado de transacciones a través de una interfaz limpia y fácil de usar.
 
-This project is designed to provide an interactive and user-friendly experience for anyone looking to learn how to build a banking application or understand the integration of a graphical user interface (GUI) with a database.
+Este proyecto está diseñado para ofrecer una experiencia interactiva y amigable para quienes deseen aprender a construir una aplicación bancaria o entender la integración de una interfaz gráfica (GUI) con una base de datos.
 
 
-## Requirements
+## Requisitos
 
 - Python 3.x
 - PyQt6
 - SQLite 
 
-## Installation
+## Instalacion
 
-1. Clone this repository to your local machine:
+1. Clona este repositorio en tu maquina local:
     ```bash
     git clone https://github.com/Juanemiliani70/BancoApp.git
     ```
 
-2. Install the required dependencies:
+2. Instala las dependencias necesarias:
     ```bash
     pip install -r requirements.txt
     ```
 
-3. Run the application:
+3. Ejecuta la aplicación:
     ```bash
     python main.py
     ```
 
-## Contributing
+## Contribuciones
 
-If you'd like to contribute to the project, feel free to fork the repository and submit pull requests. 
+Si querés contribuir al proyecto, sentite libre de hacer un fork del repositorio y enviar pull requests.
 
 
